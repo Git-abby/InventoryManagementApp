@@ -1,4 +1,9 @@
-﻿public class InventoryItem
+﻿
+//Mohmmadabrar Malek
+//#8891845
+//MidTerm Exam
+
+public class InventoryItem
 {
     // Properties
     public string ItemName { get; set; }
